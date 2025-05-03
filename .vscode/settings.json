@@ -1,0 +1,13 @@
+{
+  "accessibility.signals.codeActionTriggered": {
+    "sound": "off"
+  },
+  "accessibility.signals.notebookCellFailed": {
+    "sound": "off",
+    "announcement": "off"
+  },
+  "accessibility.signals.taskFailed": {
+    "sound": "off",
+    "announcement": "off"
+  }
+}
